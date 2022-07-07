@@ -22,8 +22,11 @@ aggregations - agregácie, teda počet kníh v danej 'category' a 'bic'
 ```
 
 Výstup je strom na základe počiatočných a vstupných dát, ktorý zobrazuje konkrétne zvolenú kategóriu (podkategóriu).
-Zobrazujú sa IBA tie kategórie (podkategórie), ku ktorým je uvedený počet v `aggregations`
+Zobrazujú sa IBA tie kategórie (podkategórie), ku ktorým je uvedený počet v `aggregations`.
 Pri každom testovacom súbore je aj obrázok, ako by strom s danou konfiguráciou mal vyzerať.
+
+Dizajn:
+[Figma](https://www.figma.com/file/P6wtaoHANCH1LQw4jGH4f0/Zadanie)
 
 ## Project setup
 ```
